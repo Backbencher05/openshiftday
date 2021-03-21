@@ -1,6 +1,6 @@
 <?php
 
-print "welcome to openshift first"
+print "welcome to openshift first";
   
   
 ?>
